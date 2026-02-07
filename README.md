@@ -583,17 +583,6 @@ I'm passionate about cybersecurity and always eager to learn new technologies an
 
 ---
 
-## 📝 About the Course
-
-**Course:** EAS 595 - System Security  
-**Institution:** [Your University]  
-**Instructor:** Prof. Kevin Cleary  
-**Semester:** Fall 2024
-
-This course provides hands-on experience with system security concepts, network administration, and cybersecurity operations in enterprise environments.
-
----
-
 ## 🚀 Future Updates
 
 This repository is a living document of my learning journey. I plan to add:
