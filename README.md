@@ -9,8 +9,6 @@
 
 This repository showcases my practical, hands-on experience in system security, network administration, and cybersecurity operations. Each lab demonstrates real-world skills in configuring, securing, and analyzing computer systems and networks.
 
-These labs were completed as part of **EAS 595 - System Security** under Prof. Kevin Cleary, where I gained practical experience with enterprise-grade tools and techniques used in modern cybersecurity operations.
-
 ---
 
 ## 🎯 Core Competencies Demonstrated
