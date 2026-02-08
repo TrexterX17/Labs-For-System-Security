@@ -65,7 +65,7 @@ Through these labs, I have developed and demonstrated proficiency in:
 
 ## 🔬 Lab 01: Operating System Installation & Network Connectivity
 
-**Status:** ✅ Complete | [View Full Documentation →](./lab-01-os-installation-networking/)
+**Status:** ✅ Complete | [View Full Documentation →](https://github.com/TrexterX17/Labs-For-System-Security/tree/master/lab-01)
 
 ### Quick Overview
 Deployed Windows 10 Enterprise and Ubuntu Linux in a virtualized environment, configured network settings, and validated connectivity using platform-specific CLI tools.
@@ -79,7 +79,7 @@ Deployed Windows 10 Enterprise and Ubuntu Linux in a virtualized environment, co
 ### Technologies Used
 `VMware vSphere` `Windows 10 Enterprise` `Ubuntu Linux` `PowerShell` `Bash` `TCP/IP` `DNS`
 
-**[→ Read Full Lab Documentation](./lab-01-os-installation-networking/README.md)**
+**[→ Read Full Lab Documentation](https://github.com/TrexterX17/Labs-For-System-Security/blob/master/lab-01/Welcome%20to%20SysSec%20LAB%2001%20Faraz%20Ahmed.pdf)**
 
 ---
 
