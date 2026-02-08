@@ -609,14 +609,6 @@ This repository is for educational and portfolio purposes. Please do not copy fo
 
 ---
 
-## 🙏 Acknowledgments
-
-- Prof. Kevin Cleary for excellent instruction and lab design
-- EAS 595 course materials and resources
-- The cybersecurity community for continuous learning resources
-
----
-
 <div align="center">
 
 **⭐ If you found this repository helpful or interesting, please consider giving it a star! ⭐**
