@@ -47,17 +47,17 @@ Through these labs, I have developed and demonstrated proficiency in:
 
 | Lab # | Title | Key Skills | Difficulty |
 |-------|-------|------------|------------|
-| [01](./lab-01-os-installation-networking/) | **OS Installation & Network Connectivity** | Virtualization, Network Diagnostics, Cross-Platform Admin | ⭐ Beginner |
-| [02](./lab-02-pfsense-network-segmentation/) | **pfSense Router & Network Segmentation** | Firewall Configuration, IDS Deployment, Network Architecture | ⭐⭐ Intermediate |
-| [03](./lab-03-firewall-configuration/) | **Firewall Rules & Access Control** | Protocol-Specific Rules, Least Privilege, Security Testing | ⭐⭐⭐ Intermediate/Advanced |
-| [04](./lab-04-active-directory-group-policy/) | **Active Directory & Group Policy** | AD DS, User Management, GPO, IIS, PowerShell Logging | ⭐⭐⭐⭐ Advanced |
-| [05](./lab-05-linux-hardening-automation/) | **Linux Server Hardening & Automation** | LAMP Stack, Security Hardening, Bash Scripting, Cron Jobs | ⭐⭐⭐⭐ Advanced |
-| [06](./lab-06-windows-threat-hunting/) | **Windows Threat Hunting & Incident Response** | Malware Analysis, IFEO Forensics, Event Log Analysis, IR Documentation | ⭐⭐⭐⭐⭐ Expert |
-| [07](./lab-07-services-mediawiki-fail2ban/) | **Service Deployment, MediaWiki & Fail2Ban** | MariaDB Admin, MediaWiki, iptables, Fail2Ban, Multi-Tier Architecture | ⭐⭐⭐⭐⭐ Expert |
-| [08](./lab-08-network-architecture-security-proposals/) | **Network Architecture & Security Proposals** | Network Documentation, Honeypots, IDPS, Business Case Writing, ROI Analysis | ⭐⭐⭐⭐⭐ Expert |
-| [09](./lab-09-containerization-siem-graylog/) | **Containerization & SIEM (Graylog)** | Docker, Docker Compose, Graylog, rsyslog, Alert Engineering, SOC Dashboards | ⭐⭐⭐⭐⭐ Expert |
-| [10](./lab-10-risk-analysis-management/) | **Risk Analysis & Management** | PII/SPII Assessment, SIEM Evaluation, Cost-Benefit Analysis, Executive Memos | ⭐⭐⭐⭐⭐ Expert |
-| [11](./lab-11-penetration-testing-ethical-hacking/) | **Penetration Testing & Ethical Hacking** | Nmap, SQL Injection, Reverse Shells, Privilege Escalation, Pentest Reporting | ⭐⭐⭐⭐⭐ Expert |
+| [01]| **OS Installation & Network Connectivity** | Virtualization, Network Diagnostics, Cross-Platform Admin | ⭐ Beginner |
+| [02]| **pfSense Router & Network Segmentation** | Firewall Configuration, IDS Deployment, Network Architecture | ⭐⭐ Intermediate |
+| [03]| **Firewall Rules & Access Control** | Protocol-Specific Rules, Least Privilege, Security Testing | ⭐⭐⭐ Intermediate/Advanced |
+| [04]| **Active Directory & Group Policy** | AD DS, User Management, GPO, IIS, PowerShell Logging | ⭐⭐⭐⭐ Advanced |
+| [05]| **Linux Server Hardening & Automation** | LAMP Stack, Security Hardening, Bash Scripting, Cron Jobs | ⭐⭐⭐⭐ Advanced |
+| [06]| **Windows Threat Hunting & Incident Response** | Malware Analysis, IFEO Forensics, Event Log Analysis, IR Documentation | ⭐⭐⭐⭐⭐ Expert |
+| [07]| **Service Deployment, MediaWiki & Fail2Ban** | MariaDB Admin, MediaWiki, iptables, Fail2Ban, Multi-Tier Architecture | ⭐⭐⭐⭐⭐ Expert |
+| [08]| **Network Architecture & Security Proposals** | Network Documentation, Honeypots, IDPS, Business Case Writing, ROI Analysis | ⭐⭐⭐⭐⭐ Expert |
+| [09]| **Containerization & SIEM (Graylog)** | Docker, Docker Compose, Graylog, rsyslog, Alert Engineering, SOC Dashboards | ⭐⭐⭐⭐⭐ Expert |
+| [10]| **Risk Analysis & Management** | PII/SPII Assessment, SIEM Evaluation, Cost-Benefit Analysis, Executive Memos | ⭐⭐⭐⭐⭐ Expert |
+| [11]| **Penetration Testing & Ethical Hacking** | Nmap, SQL Injection, Reverse Shells, Privilege Escalation, Pentest Reporting | ⭐⭐⭐⭐⭐ Expert |
 
 > **Note:** This repository is actively being updated as I complete additional labs. Check back for new content!
 
